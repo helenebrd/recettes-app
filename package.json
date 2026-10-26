@@ -19,5 +19,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "TON_URL_DE_DEPOT_GITHUB_BACKEND"
+  }
 }
